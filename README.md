@@ -10,8 +10,11 @@
   <a href="mailto:mohitkedia5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
   </a>
-  <a href="/resume.pdf" target="_blank"> 
-    <img src="https://img.shields.io/badge/Resume-PDF-blue" />
+  <a href="https://drive.google.com/file/d/1sUaBbsjzltkensDPKMLhwcGF5-Kup6ja/preview" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Preview-green" />
+  </a>
+  <a href="https://drive.google.com/uc?export=download&id=1sUaBbsjzltkensDPKMLhwcGF5-Kup6ja" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-blue" />
   </a>
 </p>
 
